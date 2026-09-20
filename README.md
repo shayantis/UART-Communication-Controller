@@ -39,18 +39,5 @@ The transmitted and received data were verified using Vivado behavioral simulati
 - Verilog HDL
 - Xilinx Vivado
 
-## Project Structure
-UART-Communication-Controller/
-├── README.md
-├── rtl/
-│   ├── baud_generator.v
-│   ├── uart_controller.v
-│   ├── uart_rx.v
-│   └── uart_tx.v
-├── simulation/
-│   └── tb_uart_system.v
-└── docs/
-    └── waveform.png
-
 ## Status
 Completed and verified through behavioral simulation.
